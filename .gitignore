@@ -1,0 +1,14 @@
+
+*.class
+
+*.xml
+
+*.iml
+
+*.cache
+
+*.properties
+
+project/target*
+
+target*
